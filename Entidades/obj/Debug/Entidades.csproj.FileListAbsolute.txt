@@ -1,0 +1,6 @@
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\bin\Debug\Entidades.dll
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\bin\Debug\Entidades.pdb
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\obj\Debug\Entidades.dll
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\obj\Debug\Entidades.pdb
