@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Entidades;
 
-namespace Presentación
+namespace Prueba
 {
     internal class Program
     {
